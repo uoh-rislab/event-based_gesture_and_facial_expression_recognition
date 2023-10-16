@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://sites.google.com/uoh.cl/uoh-ris-lab">
-    <img src="resources/uoh_ici.jpeg" alt="Logo" width="80" height="80">
+    <img src="resources/uoh_ici.jpeg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Event-based Gesture and Facial Expression Recognition: A Comparative Analysis</h3>
