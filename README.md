@@ -15,7 +15,7 @@
   </p>
 </p>
 
-This repository contains instructions on evaluated/implemented event-based objects recognition methods for gesture and facial expression recognition task, as described in R. Verschae, [I. Bugueno-Cordova](https://github.com/ibugueno/) "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis". The paper can be found [here](#)
+This repository contains instructions on evaluated/implemented event-based objects recognition methods for gesture and facial expression recognition task, as described in [R. Verschae](https://rodrigo.verschae.org/), [I. Bugueno-Cordova](https://github.com/ibugueno/) "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis". The paper can be found [here](#)
 
 If you cite this article in an academic context, we appreciate a citation to the paper below:
 
