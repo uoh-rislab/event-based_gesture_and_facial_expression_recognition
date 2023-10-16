@@ -1,4 +1,20 @@
-# Event-based Gesture and Facial Expression Recognition: A Comparative Analysis
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://sites.google.com/uoh.cl/uoh-ris-lab">
+    <img src="resources/uoh_ici.jpeg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Event-based Gesture and Facial Expression Recognition: A Comparative Analysis</h3>
+
+  <p align="center">
+     Codes for "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis" 
+    <br />
+    <a href="https://sites.google.com/uoh.cl/uoh-ris-lab"><strong>Explore our laboratory»</strong></a>
+    <br />
+
+  </p>
+</p>
 
 This repository contains instructions on evaluated/implemented event-based objects recognition methods for gesture and facial expression recognition task, as described in R. Verschae, [I. Bugueno-Cordova](https://github.com/ibugueno/) "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis". The paper can be found [here](#)
 
